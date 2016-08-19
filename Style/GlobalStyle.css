@@ -1,0 +1,30 @@
+@charset "utf-8";
+h1 {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 24px;
+	font-weight: bold;
+}
+#main {
+	background-color: rgb(170, 196, 255);
+	width: 1200px;
+	height: 800px;
+	margin-left: 18%;
+	padding-left:25px;
+	padding-right:25px;
+}
+#Banner{
+	widht:1200px;
+	height:100px;
+}
+p {
+	font-family: "Arial", Monaco, Serif;
+	font-size: 14px;
+}
+
+html, body{
+	background-color: rgb(226, 255, 94);
+	}
+	
+#Footer{
+	text-align: center;
+	}
